@@ -1,0 +1,11 @@
+#joinBtn {
+    Font color:white;
+    background-color: black;
+    border-radius:5px;
+}
+
+#joinBtn:hover {
+    background-color: yellow;
+	font-color:black;
+border-radius:30px;
+}
