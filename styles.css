@@ -1,10 +1,10 @@
-#joinBtn {
+#btn {
     color:white;
     background-color: black;
     border-radius:5px;
 }
 
-#joinBtn:hover {
+#btn:hover {
     background-color: yellow;
 	color:black;
 border-radius:30px;
